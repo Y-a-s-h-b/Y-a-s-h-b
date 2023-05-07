@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯  I'm currently pursuing Bachelor of Technology with Specialization in Gaming Technology.<br>🎮  I'm currently developing 2-D Platformer Game using Unity Engine.<br>❤️  Games,Books,Movies,Cricket<br>💬I Playing action video games trains people to make right decisions faster. 
+🎯  I'm currently pursuing Bachelor of Technology with Specialization in Gaming Technology.<br>🎮  I'm currently developing 3-D Platformer Game using Unity Engine.<br>❤️  Games,Books,Movies,Cricket<br>💬I Playing action video games trains people to make right decisions faster. 
 
 
 ## 🌐 Socials:
